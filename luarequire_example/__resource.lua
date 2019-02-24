@@ -6,3 +6,8 @@ server_scripts {
   '@luarequire/shared.lua',
   'example.lua',
 }
+
+client_scripts {
+  '@luarequire/shared.lua',
+  'example.lua',
+}
